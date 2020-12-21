@@ -1,6 +1,6 @@
-# hola-mundo-en-java
+# Hola mundo"  en java
 
-## Descripcion
+## Descripción
 
 El programa "Hola Mundo" simplemente muestra "Hola Mundo" por pantalla. Es muy sencillo y suele ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programación.
 
@@ -8,13 +8,13 @@ El programa "Hola Mundo" simplemente muestra "Hola Mundo" por pantalla. Es muy s
 
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
-``console
+```console
 javac HolaMundo.java
 ```
 
 Y para **ejecutarlo** :
 
-``console
+```console
 java HolaMundo
 ```
 ## Aprendizaje de Java 
