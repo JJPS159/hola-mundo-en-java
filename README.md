@@ -1,8 +1,8 @@
-# Hola mundo"  en java
+# "Hola mundo"  en java
 
 ## Descripción
 
-El programa "Hola Mundo" simplemente muestra "Hola Mundo" por pantalla. Es muy sencillo y suele ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programación.
+El programa "Hola Mundo" simplemente muestra "Hola Mundo" en pantalla. Es muy sencillo y suele ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programación.
 
 ## Compilación y ejecución del programa
 
